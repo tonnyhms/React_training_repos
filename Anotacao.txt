@@ -1,0 +1,2 @@
+Repositório para testes de programação React / React Native
+Vou aproveitar e tentar incluir projetos com aquisição de dados pra automação industrial ou residencial. :D 
